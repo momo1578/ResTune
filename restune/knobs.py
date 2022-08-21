@@ -1,7 +1,7 @@
 import json
 import time
 import pandas as pd
-import bisect
+import bisect #有序序列的查找和删除
 import numpy as np
 from .utils import logger
 from .utils.parser import  convert_65IM_to_51IM
