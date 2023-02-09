@@ -17,7 +17,7 @@ KNOBS = [
          'innodb_max_dirty_pages_pct',
          'innodb_io_capacity',
          'innodb_max_dirty_pages_pct_lwm',
-         'innodb_thread_concurrency',
+         'innodb_thread_concurrency', # 有
          'innodb_lock_wait_timeout',
          'innodb_lru_scan_depth',
          'innodb_buffer_pool_instances',
